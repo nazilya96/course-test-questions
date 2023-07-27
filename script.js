@@ -10,8 +10,6 @@ let letters = fullName.split('');
 // let result = fullName.replace('Karimova', '').replace('Nazila', 'Karimova').replace(' ', ' Nazila').split('');
 // console.log(result);
 
-let result = letters.splice(7, 9);
-console.log(result.concat(letters))
 
 
 
